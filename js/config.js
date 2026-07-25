@@ -22,7 +22,7 @@ const SITE_CONFIG = {
 
   // Google Apps Script Web App URL for Appointment Booking
   // Deploy the provided Apps Script as Web App (Anyone access) and paste URL here
-  bookingScriptUrl: "",                     // e.g. "https://script.google.com/macros/s/AKfycb.../exec"
+  bookingScriptUrl: "https://script.google.com/macros/s/AKfycbxThVb0TKotxAgWjCX1gfsV4gf78FrU6V7h3fphOk856gaScCMUOWbiInJUxng5I18GXg/exec",                     // e.g. "https://script.google.com/macros/s/AKfycb.../exec"
 
   // Opening hours (used by the booking system + display)
   openingHours: {
